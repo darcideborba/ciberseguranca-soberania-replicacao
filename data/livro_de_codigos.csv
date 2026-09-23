@@ -1,0 +1,16 @@
+codigo,dimensao_ou_valor,regra
+G,governança,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+K,capacidades,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+I,infraestrutura-nuvem-dados,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+T,base tecnológica,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+P,proteção de dados e direitos,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+E,IA e tecnologias emergentes,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+C,infraestruturas críticas,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+X,cooperação internacional,"Presença codificada por dispositivo (artigo, inciso ou item de plano)"
+2,presença explícita,"Dispositivo específico com conteúdo operacional (obrigação, competência, meta, requisito, instrumento ou recurso)"
+1,presença genérica,"Menção como princípio, diretriz ou objetivo, sem obrigação, meta ou instrumento associado"
+0,ausência,Nenhum dispositivo relativo à dimensão
+S=D,soberania declarada,"Termos soberania nacional, digital ou tecnológica, ou desenvolvimento soberano, como princípio, diretriz, objetivo ou finalidade; menções apenas contextuais não são codificadas"
+S=I,soberania instrumentada,"Recurso, incentivo, requisito ou obrigação vinculado a controle nacional sobre dados, infraestrutura ou tecnologia, com ou sem o termo"
+S=D/I,declarada e instrumentada,Ambas as condições
+S=0,ausente,Nenhuma das condições

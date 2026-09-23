@@ -1,0 +1,18 @@
+id_matriz,instrumento,trilha,G,K,I,T,P,E,C,X,S,dispositivos
+LGPD,"Lei 13.709/2018 (LGPD), com Lei 15.352/2026",governo digital e dados,2,2,1,0,2,1,0,1,0,"Arts. 20, 33, 46, 55-A (LGPD); Lei 15.352/2026 cria a Agência e a carreira."
+9573,Decreto 9.573/2018,segurança,2,0,0,0,0,0,2,2,0,"Arts. 1º, 3º, 4º V, 5º, 14."
+IN1,IN GSI/PR 1/2020,segurança,2,2,0,0,1,0,0,0,0,"Arts. 9-12, 15 III, 18-22."
+BCB,Resolução BCB 1/2020 (Pix),governo digital e dados,2,0,2,0,2,0,1,0,I,"Art. 3º (participação obrigatória, redação original); art. 46 (SPI operado pelo BCB); art. 89 (segurança e antifraude). Soberania instrumentada sem uso do termo."
+10569,Decreto 10.569/2020,segurança,1,2,0,0,0,0,2,0,0,Soberania apenas na contextualização do anexo (seções 1 e 2.4); não codificada. Eixo conscientização e capacitação (obj. 2.2).
+14129,Lei 14.129/2021,governo digital e dados,1,2,2,1,2,0,0,0,0,"Arts. 3º XXIII, 7º, 21 IX, 38 I, 39 III, 48."
+10748,Decreto 10.748/2021,segurança,2,1,0,0,0,0,1,2,0,"Arts. 11 IV-V, 12 VII."
+IN5,"IN GSI/PR 5/2021, com IN 8/2025",segurança,1,0,2,0,1,0,0,0,I,IN 8/2025: informação classificada (reservado e secreto) em nuvem privada/comunitária com data centers exclusivamente em território nacional; vedação ao ultrassecreto.
+CNDI,Resolução CNDI/MDIC 1/2023,industrial e tecnológica,0,0,0,2,0,1,0,0,D,"Art. 9º, I (Missão 4: 'soberania digital e tecnológica')."
+11856,Decreto 11.856/2023,segurança,2,2,0,2,2,0,2,2,D,"Art. 2º I (soberania nacional), II, III, V, VII; art. 3º; arts. 5º-7º."
+14968,Lei 14.968/2024,industrial e tecnológica,0,0,0,2,0,0,0,0,D/I,Art. 2º IX (diretriz: soberania tecnológica); art. 3º (Brasil Semicon).
+12198,Decreto 12.198/2024,governo digital e dados,2,2,2,0,2,0,0,0,0,"Arts. 3º IX, 5º, 6º I d, 7º."
+12308,Decreto 12.308/2024,governo digital e dados,2,0,0,1,0,0,0,0,D,Art. 3º IV (objetivo da E-Digital: desenvolvimento socioeconômico soberano).
+PBIA,Plano Brasileiro de IA 2024-2028,industrial e tecnológica,1,2,2,2,0,2,0,0,D/I,"Nuvem soberana R$ 1,4 bi; governança R$ 103,25 mi (0,45%)."
+12572,Decreto 12.572/2025,segurança,2,2,0,0,2,0,2,2,D,"Art. 3º I (soberania nacional); arts. 4º, 5º-6º, 8º VI, 10 V."
+12573,Decreto 12.573/2025,segurança,2,2,0,2,1,1,2,2,D,"Art. 1º (eixo IV soberania nacional e governança); arts. 5º-6º, 8º, 9º, 10 III, IV e X, 11."
+15504,Lei 15.504/2026,industrial e tecnológica,0,0,2,2,0,1,0,0,0,"Arts. 11-A §1º, 11-B §1º; sem requisito de localização de dados."
