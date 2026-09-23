@@ -1,0 +1,13 @@
+{
+  "title": "Cibersegurança e soberania digital na digitalização dos serviços públicos: corpus, livro de códigos e matriz de codificação do arcabouço normativo federal brasileiro (2018-2026)",
+  "upload_type": "dataset",
+  "description": "Pacote de replicação de análise documental qualitativa de 17 instrumentos federais brasileiros (2018-2026) sobre cibersegurança, soberania digital e governo digital. Inclui o corpus documental com URLs oficiais, o livro de códigos, a matriz de codificação com os dispositivos que fundamentam cada atribuição (dupla codificação independente, concordância de 87%), as referências em RIS para Zotero e scripts em Python para recalcular os totais e gerar o arquivo RIS.",
+  "creators": [
+    {"name": "Santos Júnior, Darci de Borba", "affiliation": "Instituto de Pesquisa Econômica Aplicada (Ipea)", "orcid": "0000-0001-9851-5034"},
+    {"name": "Barreiros, Felipe César Matos", "affiliation": "Universidade Federal Fluminense (UFF)"}
+  ],
+  "keywords": ["cibersegurança", "soberania digital", "governo digital", "serviços públicos digitais", "análise documental", "Brasil"],
+  "license": "cc-by-4.0",
+  "language": "por",
+  "access_right": "open"
+}

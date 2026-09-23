@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "Se usar estes dados, cite conforme abaixo."
+title: "Cibersegurança e soberania digital na digitalização dos serviços públicos: corpus, livro de códigos e matriz de codificação do arcabouço normativo federal brasileiro (2018-2026)"
+type: dataset
+authors:
+  - family-names: "Santos Júnior"
+    given-names: "Darci de Borba"
+    orcid: "https://orcid.org/0000-0001-9851-5034"
+    affiliation: "Instituto de Pesquisa Econômica Aplicada (Ipea)"
+  - family-names: "Barreiros"
+    given-names: "Felipe César Matos"
+    affiliation: "Universidade Federal Fluminense (UFF)"
+version: "1.0.0"
+date-released: "2026-09-23"
+license: CC-BY-4.0
+keywords: [cibersegurança, soberania digital, governo digital, serviços públicos digitais, análise documental]
