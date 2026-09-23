@@ -117,7 +117,7 @@ def tags_for(c):
 
 KEEP = ("Castro","Lanzara","Goldoni","Rodrigues","Medeiros","Junqueira","Oliveira","Muara","Klein","Matos","Borba","Gonçalves","Brinkhues","Santos Júnior","Magalhães Santos")
 def ini(a):
-    if "," not in a or a.split(",")[0] in KEEP: return a
+    if "," not in a or a.split(",")[0] in KEEP or a.startswith("Brasil"): return a
     sur, fn = a.split(",", 1)
     parts = [p for p in fn.replace(".", " ").split() if p]
     return sur + ", " + " ".join(p[0] + "." for p in parts)
